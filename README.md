@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Delphi-RAD%20Studio-red">
-  <img src="https://img.shields.io/badge/License-MIT-blue">
+  <img src="Preview.png">
 </p>
 
 ---
