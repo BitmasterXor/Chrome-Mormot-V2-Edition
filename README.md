@@ -1,4 +1,4 @@
-<h1 align="center">Delphi Google Chrome Browser Login Data Viewer</h1>
+<h1 align="center">Delphi Google Chrome Browser Login Password Viewer</h1>
 
 <p align="center">
   A Delphi application to retrieve, decrypt, and display login data from a Google Chrome browser's SQLite database.
