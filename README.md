@@ -27,7 +27,7 @@
 ## 🛠️ Requirements
 
 - **Delphi RAD Studio**
-- **FireDAC Components**
+- **FireDAC Components** (Should already come pre-installed with your IDE so not really a requirement)
 - **Mormot V2 Library** You can search it on google or just get it here: https://github.com/synopse/mORMot2
 
 ## 📜 License
