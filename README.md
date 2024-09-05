@@ -1,7 +1,7 @@
-<h1 align="center">Delphi Browser Login Data Viewer</h1>
+<h1 align="center">Delphi Google Chrome Browser Login Data Viewer</h1>
 
 <p align="center">
-  A Delphi application to retrieve, decrypt, and display login data from a browser's SQLite database.
+  A Delphi application to retrieve, decrypt, and display login data from a Google Chrome browser's SQLite database.
 </p>
 
 <p align="center">
